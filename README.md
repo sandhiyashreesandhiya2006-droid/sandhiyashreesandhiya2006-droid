@@ -1,23 +1,10 @@
 <div align="center">
 
-<!-- Custom typographic header — no stock gradient banner -->
-<table width="100%" style="border:none;">
-<tr><td align="center" style="border:none;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1a1a2e&height=180&section=header&text=Sandhiya%20Shree%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20·%20AI%20Engineer%20·%20Python%20Developer&descAlignY=62&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=0F6E56&center=true&vCenter=true&width=560&lines=Turning+messy+data+into+decisions;Building+ML-powered+dashboards;Shipping+AI+tools+that+actually+work;Open+to+Internships+2026" />
 
 <br/>
-
-# SANDHIYA SHREE S
-
-<code>Data Analyst&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Python Developer</code>
-
-<br/>
-
-*I build things that turn messy data into decisions — dashboards, models, and the occasional AI assistant that actually answers correctly.*
-
-<br/>
-
-</td></tr>
-</table>
 
 <a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1a1a2e&style=flat-square&logoColor=white" height="28"/></a>&nbsp;
 <a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=0f6e56&style=flat-square&logoColor=white" height="28"/></a>&nbsp;
@@ -26,9 +13,9 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=3&width=100%25" width="100%"/>
 
-## `01` — What I actually do
+## `01` What I actually do
 
 <table width="100%">
 <tr>
@@ -38,45 +25,32 @@
 </td>
 <td width="33%" valign="top" style="background:#FAECE7; border-radius:10px; padding:16px;">
 <b>Applied ML</b><br/>
-<sub>Regression & classification models for forecasting and prediction, evaluated with real metrics.</sub>
+<sub>Regression & classification models for forecasting, evaluated with real metrics.</sub>
 </td>
 <td width="33%" valign="top" style="background:#EEEDFE; border-radius:10px; padding:16px;">
 <b>AI Applications</b><br/>
-<sub>LLM-powered tools (Gemini API) for document intelligence and conversational assistants.</sub>
+<sub>LLM-powered tools (Gemini API) for document intelligence and assistants.</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D85A30&height=3&width=100%25" width="100%"/>
 
-## `02` — Tech stack
+## `02` Tech stack
 
-<table width="100%">
-<tr><td width="140" valign="top"><b>Language</b></td><td>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sklearn,linux,html,css&perline=9" />
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="42" title="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="42" title="Streamlit"/>
+</div>
 
-`Python` `SQL` `HTML/CSS`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=185FA5&height=3&width=100%25" width="100%"/>
 
-</td></tr>
-<tr><td valign="top"><b>Data</b></td><td>
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
-
-</td></tr>
-<tr><td valign="top"><b>ML / AI</b></td><td>
-
-`Scikit-learn` `Google Gemini API`
-
-</td></tr>
-<tr><td valign="top"><b>Apps</b></td><td>
-
-`Streamlit` `Git` `GitHub` `VS Code`
-
-</td></tr>
-</table>
-
-<br/>
-
-## `03` — GitHub activity
+## `03` GitHub activity
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&hide_border=true&title_color=0f6e56&icon_color=d85a30&text_color=2c2c2a&bg_color=00000000" />
@@ -92,14 +66,17 @@
 </div>
 
 <div align="center">
+
+<!-- ANIMATED — moving snake eating the contribution graph. Requires the workflow below to be added ONCE. -->
 <img width="97%" src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake.svg" />
+
 </div>
 
-<sub>Snake needs a one-time GitHub Actions setup — see note at the bottom.</sub>
+<sub>⚙️ This snake is a live moving animation, not a static image — but it only appears after the one-time setup at the bottom of this file.</sub>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=993C1D&height=3&width=100%25" width="100%"/>
 
-## `04` — Featured work
+## `04` Featured work
 
 <table width="100%">
 <tr>
@@ -133,9 +110,9 @@
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=3&width=100%25" width="100%"/>
 
-## `05` — Get in touch
+## `05` Get in touch
 
 <div align="center">
 
@@ -145,17 +122,77 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>Open to Data Analyst / AI Engineer / Python Developer internships</sub>
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0F6E56&height=100&section=footer" width="100%"/>
 
 <!--
-SNAKE SETUP (one-time):
-1. Repo → Settings → Secrets and variables → Actions → nothing needed, uses default token.
-2. Add .github/workflows/snake.yml using the Platane/snk action, output branch "output".
-3. Once it runs once, the raw.githubusercontent.com link above goes live.
+========================================================
+ONE-TIME SETUP TO MAKE THE SNAKE ACTUALLY MOVE:
+
+1. In your PROFILE repo (sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid),
+   create the file: .github/workflows/snake.yml
+   with EXACTLY this content:
+
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: sandhiyashreesandhiya2006-droid
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Commit it, go to the Actions tab, and manually run "generate animated snake" once.
+3. Wait ~1 minute — it creates an "output" branch with the live SVG.
+4. The snake image above will then animate automatically, refreshing every 6 hours.
+========================================================
 -->
+
+
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: sandhiyashreesandhiya2006-droid
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
