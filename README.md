@@ -1,96 +1,161 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Hi,%20I'm%20Sandhiya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20AI%20Engineer%20•%20Python%20Developer&descAlignY=58&descSize=18" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+AI-powered+dashboards;Learning+something+new+every+day;Open+to+Internship+Opportunities+🚀" alt="Typing SVG" />
-</p>
+<!-- Custom typographic header — no stock gradient banner -->
+<table width="100%" style="border:none;">
+<tr><td align="center" style="border:none;">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=canva&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandhiyashreesandhiya2006-droid&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
-</p>
+# SANDHIYA SHREE S
+
+<code>Data Analyst&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Python Developer</code>
+
+<br/>
+
+*I build things that turn messy data into decisions — dashboards, models, and the occasional AI assistant that actually answers correctly.*
+
+<br/>
+
+</td></tr>
+</table>
+
+<a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1a1a2e&style=flat-square&logoColor=white" height="28"/></a>&nbsp;
+<a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=0f6e56&style=flat-square&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=993c1d&style=flat-square&logoColor=white" height="28"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sandhiyashreesandhiya2006-droid&label=Views&color=444441&style=flat-square" height="28"/>
+
+</div>
+
+<br/>
+
+## `01` — What I actually do
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" style="background:#E1F5EE; border-radius:10px; padding:16px;">
+<b>Data Analysis</b><br/>
+<sub>EDA, retention & churn analysis, dashboarding with Pandas, Seaborn, and Streamlit.</sub>
+</td>
+<td width="33%" valign="top" style="background:#FAECE7; border-radius:10px; padding:16px;">
+<b>Applied ML</b><br/>
+<sub>Regression & classification models for forecasting and prediction, evaluated with real metrics.</sub>
+</td>
+<td width="33%" valign="top" style="background:#EEEDFE; border-radius:10px; padding:16px;">
+<b>AI Applications</b><br/>
+<sub>LLM-powered tools (Gemini API) for document intelligence and conversational assistants.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` — Tech stack
+
+<table width="100%">
+<tr><td width="140" valign="top"><b>Language</b></td><td>
+
+`Python` `SQL` `HTML/CSS`
+
+</td></tr>
+<tr><td valign="top"><b>Data</b></td><td>
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+</td></tr>
+<tr><td valign="top"><b>ML / AI</b></td><td>
+
+`Scikit-learn` `Google Gemini API`
+
+</td></tr>
+<tr><td valign="top"><b>Apps</b></td><td>
+
+`Streamlit` `Git` `GitHub` `VS Code`
+
+</td></tr>
+</table>
+
+<br/>
+
+## `03` — GitHub activity
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&hide_border=true&title_color=0f6e56&icon_color=d85a30&text_color=2c2c2a&bg_color=00000000" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&hide_border=true&title_color=0f6e56&text_color=2c2c2a&bg_color=00000000" />
+</div>
+
+<div align="center">
+<img width="97%" src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&hide_border=true&ring=0f6e56&fire=d85a30&currStreakLabel=2c2c2a&background=00000000" />
+</div>
+
+<div align="center">
+<img width="97%" src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&no-frame=true&column=6&margin-w=8&title=Repositories,Stars,Followers,Commits" />
+</div>
+
+<div align="center">
+<img width="97%" src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake.svg" />
+</div>
+
+<sub>Snake needs a one-time GitHub Actions setup — see note at the bottom.</sub>
+
+<br/>
+
+## `04` — Featured work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="background:#E6F1FB; border-radius:10px; padding:16px; border-left:4px solid #185FA5;">
+<b>Sandhiya AI</b><br/>
+<sub>AI document assistant — chat, summarize, and generate questions from PDFs/DOCX/CSV.</sub><br/><br/>
+<code>Python</code> <code>Streamlit</code> <code>Gemini API</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI.">Repo →</a>
+</td>
+<td width="50%" valign="top" style="background:#EAF3DE; border-radius:10px; padding:16px; border-left:4px solid #3B6D11;">
+<b>ML Dashboard</b><br/>
+<sub>Sales analytics with ML-based demand forecasting, model metrics included.</sub><br/><br/>
+<code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/ml-dashboard">Repo →</a>
+</td>
+</tr>
+<tr><td colspan="2" height="12" style="border:none;"></td></tr>
+<tr>
+<td width="50%" valign="top" style="background:#FAEEDA; border-radius:10px; padding:16px; border-left:4px solid #854F0B;">
+<b>Customer Churn Analysis</b><br/>
+<sub>EDA plus churn-prediction model on the Telco customer dataset.</sub><br/><br/>
+<code>Python</code> <code>Pandas</code> <code>Seaborn</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis">Repo →</a>
+</td>
+<td width="50%" valign="top" style="background:#FBEAF0; border-radius:10px; padding:16px; border-left:4px solid #993556;">
+<b>Universal AI Dashboard</b><br/>
+<sub>Auto-analyzes any dataset and generates AI-driven business insights.</sub><br/><br/>
+<code>Python</code> <code>Streamlit</code> <code>Plotly</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard">Repo →</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `05` — Get in touch
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/static/v1?label=&message=Connect+on+LinkedIn&color=1a1a2e&style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Send+an+Email&color=0f6e56&style=for-the-badge&logoColor=white" /></a>
+<a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/static/v1?label=&message=View+Portfolio&color=993c1d&style=for-the-badge&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Open to Data Analyst / AI Engineer / Python Developer internships</sub>
+</div>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 Aspiring **Data Analyst / AI Engineer / Python Developer**, currently building real-world projects in Machine Learning, Data Analytics, and AI-powered applications.
-- 🔭 Currently working on **AI-driven dashboards** using Python, Streamlit, and Scikit-learn.
-- 🌱 Currently strengthening skills in **Machine Learning, SQL, and Data Visualization**.
-- 💬 Ask me about **Python, Pandas, Streamlit, Data Analysis, or EDA**.
-- 📫 Reach me at **sandhiyashreesaravanakumar@gmail.com**
-- ⚡ Fun fact: I like turning messy spreadsheets into dashboards people actually enjoy looking at.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sklearn,linux,html,css,js&perline=10" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚠️ Snake animation requires a one-time GitHub Actions setup — see the "How to activate the snake" note at the bottom of this README.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🤖 Sandhiya AI](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI.) | AI document assistant — chat, summarize & generate questions from PDFs/DOCX/CSV | Python, Streamlit, Gemini API |
-| [📊 ML Dashboard](https://github.com/sandhiyashreesandhiya2006-droid/ml-dashboard) | Sales analytics dashboard with ML-based forecasting | Python, Streamlit, Scikit-learn |
-| [📉 Customer Churn Analysis](https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis) | EDA + churn prediction on Telco customer dataset | Python, Pandas, Seaborn |
-| [🧠 Universal AI Dashboard](https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard) | Auto-analyzes any dataset and generates AI insights | Python, Streamlit, Plotly |
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=canva&logoColor=white" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" />
+<!--
+SNAKE SETUP (one-time):
+1. Repo → Settings → Secrets and variables → Actions → nothing needed, uses default token.
+2. Add .github/workflows/snake.yml using the Platane/snk action, output branch "output".
+3. Once it runs once, the raw.githubusercontent.com link above goes live.
+-->
