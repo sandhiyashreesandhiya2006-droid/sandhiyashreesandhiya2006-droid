@@ -22,7 +22,7 @@
 <td width="33%" valign="top" align="center" style="background:linear-gradient(135deg,#E1F5EE,#9FE1CB); border-radius:14px; padding:20px;">
 <h3>📊</h3>
 <b>Data Analysis</b><br/>
-<sub>EDA, retention & churn analysis, dashboarding with Pandas, Seaborn & Streamlit</sub>
+<sub>EDA, sales & churn analysis, dashboarding with Pandas, Seaborn & Streamlit</sub>
 </td>
 <td width="33%" valign="top" align="center" style="background:linear-gradient(135deg,#FAECE7,#F5C4B3); border-radius:14px; padding:20px;">
 <h3>🤖</h3>
@@ -62,7 +62,7 @@
 ## 📈 GitHub activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=radical&hide_border=true&count_private=false" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=radical&hide_border=true" />
 </div>
 
@@ -73,6 +73,8 @@
 <div align="center">
 <img width="97%" src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=radical&no-frame=true&column=6&margin-w=8" />
 </div>
+
+<sub>⚠️ These 3 widgets are free third-party services (not GitHub itself). If any shows a broken image, it's usually a temporary rate-limit on their end — refresh the page after a minute, it's not your file.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=100%25" width="100%"/>
 
@@ -97,7 +99,7 @@
 <tr>
 <td width="50%" valign="top" style="background:linear-gradient(135deg,#FAEEDA,#FAC775); border-radius:14px; padding:18px; border-left:5px solid #854F0B;">
 <h4>📉 Customer Churn Analysis</h4>
-<sub>EDA plus churn-prediction model on the Telco customer dataset</sub><br/><br/>
+<sub>EDA on customer retention patterns — Telco dataset</sub><br/><br/>
 <code>Python</code> <code>Pandas</code> <code>Seaborn</code><br/><br/>
 <a href="https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis">🔗 View repo</a>
 </td>
@@ -106,6 +108,21 @@
 <sub>Auto-analyzes any dataset and generates AI-driven business insights</sub><br/><br/>
 <code>Python</code> <code>Streamlit</code> <code>Plotly</code><br/><br/>
 <a href="https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard">🔗 View repo</a>
+</td>
+</tr>
+<tr><td colspan="2" height="14" style="border:none;"></td></tr>
+<tr>
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#F1EFE8,#D3D1C7); border-radius:14px; padding:18px; border-left:5px solid #5F5E5A;">
+<h4>📦 Sales Data Analysis</h4>
+<sub>Sales trends and patterns explored using Python in Jupyter Notebook</sub><br/><br/>
+<code>Python</code> <code>Jupyter Notebook</code> <code>Pandas</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis">🔗 View repo</a>
+</td>
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#FCEBEB,#F7C1C1); border-radius:14px; padding:18px; border-left:5px solid #A32D2D;">
+<h4>🧪 AI Smart Analytic Dashboard</h4>
+<sub>Early-stage analytics dashboard — actively being developed</sub><br/><br/>
+<code>Python</code> <code>Streamlit</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/AI-smart-analytic-dashboard">🔗 View repo</a>
 </td>
 </tr>
 </table>
