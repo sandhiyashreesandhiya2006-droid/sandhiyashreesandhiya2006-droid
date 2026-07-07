@@ -56,14 +56,25 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 
 ## 🚀 Featured Projects
 
-📈 Business Intelligence
+### 📈 Business Intelligence
 
-ProjectDescriptionToolsRepo🎫 Ticket Analysis DashboardPower BI dashboard for support ticket analytics & performance reportingPower BI DAX Power Query🔗 View repo👨‍💼 Employee Management DashboardPower BI dashboard for workforce analytics & department KPI reportingPower BI DAX Power Query🔗 View repo
+| Project | Description | Tools | Repo |
+|---|---|---|---|
+| 🎫 **Ticket Analysis Dashboard** | Power BI dashboard for support ticket analytics & performance reporting | `Power BI` `DAX` `Power Query` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
+| 👨‍💼 **Employee Management Dashboard** | Power BI dashboard for workforce analytics & department KPI reporting | `Power BI` `DAX` `Power Query` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
 
 <br/>
-🐍 Data Analysis & Machine Learning
 
-ProjectDescriptionToolsRepo🤖 Sandhiya AIAI-powered document intelligence assistant — chat, summarize & generate questions from PDFs/DOCX/CSV using Gemini APIPython Streamlit Gemini API🔗 View repo🌍 Universal AI DashboardAuto-analyzes any CSV dataset and generates AI-driven business insightsPython Streamlit Plotly🔗 View repo📈 ML DashboardMachine learning dashboard with sales forecasting & prediction modelsPython Scikit-learn Streamlit🔗 View repo📉 Customer Churn AnalysisExploratory Data Analysis on customer retention patterns using the Telco datasetPython Pandas Seaborn🔗 View repo📦 Sales Data AnalysisSales trends and patterns explored using Python in Jupyter NotebookPython Jupyter Notebook Pandas🔗 View repo🧪 AI Smart Analytic DashboardEarly-stage analytics dashboard — actively being developedPython Streamlit🔗 View repo
+### 🐍 Data Analysis & Machine Learning
+
+| Project | Description | Tools | Repo |
+|---|---|---|---|
+| 🤖 **Sandhiya AI** | AI-powered document intelligence assistant — chat, summarize & generate questions from PDFs/DOCX/CSV using Gemini API | `Python` `Streamlit` `Gemini API` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI.) |
+| 🌍 **Universal AI Dashboard** | Auto-analyzes any CSV dataset and generates AI-driven business insights | `Python` `Streamlit` `Plotly` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard) |
+| 📈 **ML Dashboard** | Machine learning dashboard with sales forecasting & prediction models | `Python` `Scikit-learn` `Streamlit` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/ml-dashboard) |
+| 📉 **Customer Churn Analysis** | Exploratory Data Analysis on customer retention patterns using the Telco dataset | `Python` `Pandas` `Seaborn` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis) |
+| 📦 **Sales Data Analysis** | Sales trends and patterns explored using Python in Jupyter Notebook | `Python` `Jupyter Notebook` `Pandas` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
+| 🧪 **AI Smart Analytic Dashboard** | Early-stage analytics dashboard — actively being developed | `Python` `Streamlit` | [🔗 View repo](https://github.com/sandhiyashreesandhiya2006-droid/AI-smart-analytic-dashboard) |
 
 <br/>
 
@@ -106,10 +117,3 @@ ProjectDescriptionToolsRepo🤖 Sandhiya AIAI-powered document intelligence assi
 <a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/badge/View%20Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center">
-⭐ If you like my projects, don't forget to star them!<br/>
-💼 Open to Data Analyst | Machine Learning | Python Developer internships<br/>
-Thanks for visiting my profile ❤️
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
