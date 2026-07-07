@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sandhiya%20Shree&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Sandhiya Shree</h1>
