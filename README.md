@@ -52,3 +52,41 @@
 - 🌱 Currently learning Advanced ML & Cloud
 - 💼 Looking for Data Analyst & BI opportunities
 
+# 🛠 Tech Stack
+
+<h3 align="center">💻 Languages & Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css" />
+</p>
+
+<br>
+
+<h3 align="center">📊 Data Analytics & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">📈 Business Intelligence</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">🤖 AI & App Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</p>
+
