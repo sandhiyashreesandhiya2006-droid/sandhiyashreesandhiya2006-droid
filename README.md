@@ -58,71 +58,13 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 
 📈 Business Intelligence
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#FAEEDA,#FAC775); border-radius:14px; padding:18px; border-left:5px solid #854F0B;">
-<h4>🎫 Ticket Analysis Dashboard</h4>
-<sub>Power BI dashboard for support ticket analytics & performance reporting</sub><br/><br/>
-<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard">🔗 View repo</a>
-</td>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#FBEAF0,#F4C0D1); border-radius:14px; padding:18px; border-left:5px solid #993556;">
-<h4>👨‍💼 Employee Management Dashboard</h4>
-<sub>Power BI dashboard for workforce analytics & department KPI reporting</sub><br/><br/>
-<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard">🔗 View repo</a>
-</td>
-</tr>
-</table>
+ProjectDescriptionToolsRepo🎫 Ticket Analysis DashboardPower BI dashboard for support ticket analytics & performance reportingPower BI DAX Power Query🔗 View repo👨‍💼 Employee Management DashboardPower BI dashboard for workforce analytics & department KPI reportingPower BI DAX Power Query🔗 View repo
+
 <br/>
 🐍 Data Analysis & Machine Learning
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#E6F1FB,#B5D4F4); border-radius:14px; padding:18px; border-left:5px solid #185FA5;">
-<h4>🤖 Sandhiya AI</h4>
-<sub>AI-powered document intelligence assistant — chat, summarize & generate questions from PDFs/DOCX/CSV using Gemini API</sub><br/><br/>
-<code>Python</code> <code>Streamlit</code> <code>Gemini API</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI.">🔗 View repo</a>
-</td>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#EEEDFE,#AFA9EC); border-radius:14px; padding:18px; border-left:5px solid #3C3489;">
-<h4>🌍 Universal AI Dashboard</h4>
-<sub>Auto-analyzes any CSV dataset and generates AI-driven business insights</sub><br/><br/>
-<code>Python</code> <code>Streamlit</code> <code>Plotly</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard">🔗 View repo</a>
-</td>
-</tr>
-<tr><td colspan="2" height="14" style="border:none;"></td></tr>
-<tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; border-left:5px solid #3B6D11;">
-<h4>📈 ML Dashboard</h4>
-<sub>Machine learning dashboard with sales forecasting & prediction models</sub><br/><br/>
-<code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/ml-dashboard">🔗 View repo</a>
-</td>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#F1EFE8,#D3D1C7); border-radius:14px; padding:18px; border-left:5px solid #5F5E5A;">
-<h4>📉 Customer Churn Analysis</h4>
-<sub>Exploratory Data Analysis on customer retention patterns using the Telco dataset</sub><br/><br/>
-<code>Python</code> <code>Pandas</code> <code>Seaborn</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis">🔗 View repo</a>
-</td>
-</tr>
-<tr><td colspan="2" height="14" style="border:none;"></td></tr>
-<tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#E1F5EE,#5DCAA5); border-radius:14px; padding:18px; border-left:5px solid #085041;">
-<h4>📦 Sales Data Analysis</h4>
-<sub>Sales trends and patterns explored using Python in Jupyter Notebook</sub><br/><br/>
-<code>Python</code> <code>Jupyter Notebook</code> <code>Pandas</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis">🔗 View repo</a>
-</td>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#FCEBEB,#F7C1C1); border-radius:14px; padding:18px; border-left:5px solid #A32D2D;">
-<h4>🧪 AI Smart Analytic Dashboard</h4>
-<sub>Early-stage analytics dashboard — actively being developed</sub><br/><br/>
-<code>Python</code> <code>Streamlit</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/AI-smart-analytic-dashboard">🔗 View repo</a>
-</td>
-</tr>
-</table>
+ProjectDescriptionToolsRepo🤖 Sandhiya AIAI-powered document intelligence assistant — chat, summarize & generate questions from PDFs/DOCX/CSV using Gemini APIPython Streamlit Gemini API🔗 View repo🌍 Universal AI DashboardAuto-analyzes any CSV dataset and generates AI-driven business insightsPython Streamlit Plotly🔗 View repo📈 ML DashboardMachine learning dashboard with sales forecasting & prediction modelsPython Scikit-learn Streamlit🔗 View repo📉 Customer Churn AnalysisExploratory Data Analysis on customer retention patterns using the Telco datasetPython Pandas Seaborn🔗 View repo📦 Sales Data AnalysisSales trends and patterns explored using Python in Jupyter NotebookPython Jupyter Notebook Pandas🔗 View repo🧪 AI Smart Analytic DashboardEarly-stage analytics dashboard — actively being developedPython Streamlit🔗 View repo
+
 <br/>
 
 ## 📊 GitHub Statistics
