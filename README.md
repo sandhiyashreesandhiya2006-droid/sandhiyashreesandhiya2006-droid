@@ -73,7 +73,7 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 </tr>
 <tr><td colspan="2" height="14" style="border:none;"></td></tr>
 <tr>
-<td width="50%" valign="top" style="backgroun
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; border-left:5px solid #3B6D11;">
 <h4>📈 ML Dashboard</h4>
 <sub>Machine learning dashboard with sales forecasting & prediction models</sub><br/><br/>
 <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
@@ -117,9 +117,6 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 </td>
 </tr>
 </table>
-
-
-
 <br/>
 
 ## 📊 GitHub Statistics
