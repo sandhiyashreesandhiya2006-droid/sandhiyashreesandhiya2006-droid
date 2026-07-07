@@ -64,32 +64,21 @@
 
 </p>
 
-<sub>All badges above use shields.io, which is a different (and more stable) service than the GitHub stats widgets below — these should not go down the same way.</sub>
-
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true"/>
-
 </p>
-
-> ⚠️ **Important, read before publishing:** the GitHub Stats card above (`github-readme-stats.vercel.app`) is a free public service run by a solo maintainer, and it has documented, ongoing reliability problems — multiple open bug reports as recently as December 2025 describe it returning no response, timing out, or failing to render consistently, unrelated to any specific user's profile. This is **not something wrong with your file**; it's the service itself being overloaded. Three real options:
-> 1. **Leave it as-is** — it works most of the time and self-heals; broken images today may render fine tomorrow.
-> 2. **Self-host your own instance** on your own free Vercel account (the project's maintainers now actively recommend this over the public instance) — I can walk you through this if you want it rock-solid.
-> 3. **Drop this widget entirely** and keep only Streak Stats + Trophy below, which use separate, more stable services.
 
 ---
 
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,9 +86,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=tokyonight&margin-w=15&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -147,15 +134,11 @@
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=sandhiyashreesandhiya2006-droid&style=for-the-badge&color=blueviolet"/>
-
 </p>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-
 </div>
