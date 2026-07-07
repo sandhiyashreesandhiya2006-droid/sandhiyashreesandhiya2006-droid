@@ -69,7 +69,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -78,7 +78,7 @@
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -86,8 +86,10 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sandhiyashreesandhiya2006-droid&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
+
+<sub>⚠️ If these three still show blank: the images above use community-run mirror instances (rickstaa's stats fork, Adwitya's trophy fork) since the official public instances are frequently overloaded. Mirrors can also go down. The only permanent fix is deploying your own instance — 10 minutes, I'll walk you through it on request.</sub>
 
 ---
 
