@@ -113,3 +113,18 @@
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandhiyashreesandhiya2006-droid&theme=tokyo-night&hide_border=true" />
+</p>
+
