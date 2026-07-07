@@ -96,8 +96,8 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
-| 🎫 **Ticket Analysis Dashboard** | Interactive Power BI dashboard for support ticket analysis, KPIs, SLA tracking and performance reporting. | Power BI • DAX • Power Query | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
-| 👨‍💼 **Employee Management Dashboard** | Workforce analytics dashboard with employee KPIs, department insights and HR reporting. | Power BI • DAX • Power Query | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
+| 🎫 **Ticket Analysis Dashboard** | Interactive Power BI dashboard for support ticket analysis, KPIs, SLA tracking and performance reporting. |• Power BI • DAX • Power Query | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
+| 👨‍💼 **Employee Management Dashboard** | Workforce analytics dashboard with employee KPIs, department insights and HR reporting. |• Power BI • DAX • Power Query | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
 
 ---
 
@@ -105,11 +105,11 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
-| 🤖 **Sandhiya AI** | AI assistant capable of chatting with documents, summarizing PDFs, DOCX and CSV files using the Gemini API. | Python • Streamlit • Gemini API | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI) |
-| 🌍 **Universal AI Dashboard** | Upload any CSV dataset and automatically generate interactive visualizations and AI-powered business insights. | Python • Streamlit • Plotly | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Universal-AI-Dashboard) |
-| 📈 **ML Dashboard** | Machine learning dashboard featuring prediction models, performance evaluation and interactive visualizations. | Python • Scikit-learn • Streamlit | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/ML-Dashboard) |
-| 📉 **Customer Churn Analysis** | Exploratory data analysis and machine learning to identify customer churn patterns using the Telco dataset. | Python • Pandas • Seaborn | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Customer-Churn-Analysis) |
-| 💹 **Sales Data Analysis** | End-to-end exploratory data analysis with visualizations and business insights using Python and Jupyter Notebook. | Python • Pandas • Matplotlib | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
+| 🤖 **Sandhiya AI** | AI assistant capable of chatting with documents, summarizing PDFs, DOCX and CSV files using the Gemini API. |• Python • Streamlit • Gemini API | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI) |
+| 🌍 **Universal AI Dashboard** | Upload any CSV dataset and automatically generate interactive visualizations and AI-powered business insights. |• Python • Streamlit • Plotly | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Universal-AI-Dashboard) |
+| 📈 **ML Dashboard** | Machine learning dashboard featuring prediction models, performance evaluation and interactive visualizations. |• Python • Scikit-learn • Streamlit | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/ML-Dashboard) |
+| 📉 **Customer Churn Analysis** | Exploratory data analysis and machine learning to identify customer churn patterns using the Telco dataset. |• Python • Pandas • Seaborn | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Customer-Churn-Analysis) |
+| 💹 **Sales Data Analysis** | End-to-end exploratory data analysis with visualizations and business insights using Python and Jupyter Notebook. |        • Python • Pandas • Matplotlib | 🔗 [View Repository](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
 
 ---
 
