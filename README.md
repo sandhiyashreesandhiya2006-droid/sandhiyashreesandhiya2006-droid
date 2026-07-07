@@ -52,16 +52,19 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </p>
+
+<sub>All badges above use shields.io, which is a different (and more stable) service than the GitHub stats widgets below — these should not go down the same way.</sub>
 
 ---
 
@@ -69,12 +72,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandhiyashreesandhiya2006-droid&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 <img height="170" src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<sub>⚠️ Note: the original streak-stats and typing-svg domains hosted on Heroku (herokuapp.com) are dead — Heroku discontinued free-tier hosting in Nov 2022. This version uses the maintained replacement domains (demolab.com) so these actually render instead of showing broken images.</sub>
+> ⚠️ **Important, read before publishing:** the GitHub Stats card above (`github-readme-stats.vercel.app`) is a free public service run by a solo maintainer, and it has documented, ongoing reliability problems — multiple open bug reports as recently as December 2025 describe it returning no response, timing out, or failing to render consistently, unrelated to any specific user's profile. This is **not something wrong with your file**; it's the service itself being overloaded. Three real options:
+> 1. **Leave it as-is** — it works most of the time and self-heals; broken images today may render fine tomorrow.
+> 2. **Self-host your own instance** on your own free Vercel account (the project's maintainers now actively recommend this over the public instance) — I can walk you through this if you want it rock-solid.
+> 3. **Drop this widget entirely** and keep only Streak Stats + Trophy below, which use separate, more stable services.
 
 ---
 
@@ -82,7 +88,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
