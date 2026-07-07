@@ -56,6 +56,27 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 
 ## 🚀 Featured Projects
 
+📈 Business Intelligence
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#FAEEDA,#FAC775); border-radius:14px; padding:18px; border-left:5px solid #854F0B;">
+<h4>🎫 Ticket Analysis Dashboard</h4>
+<sub>Power BI dashboard for support ticket analytics & performance reporting</sub><br/><br/>
+<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard">🔗 View repo</a>
+</td>
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#FBEAF0,#F4C0D1); border-radius:14px; padding:18px; border-left:5px solid #993556;">
+<h4>👨‍💼 Employee Management Dashboard</h4>
+<sub>Power BI dashboard for workforce analytics & department KPI reporting</sub><br/><br/>
+<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
+<a href="https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard">🔗 View repo</a>
+</td>
+</tr>
+</table>
+<br/>
+🐍 Data Analysis & Machine Learning
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top" style="background:linear-gradient(135deg,#E6F1FB,#B5D4F4); border-radius:14px; padding:18px; border-left:5px solid #185FA5;">
@@ -84,21 +105,6 @@ d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; bor
 <sub>Exploratory Data Analysis on customer retention patterns using the Telco dataset</sub><br/><br/>
 <code>Python</code> <code>Pandas</code> <code>Seaborn</code><br/><br/>
 <a href="https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis">🔗 View repo</a>
-</td>
-</tr>
-<tr><td colspan="2" height="14" style="border:none;"></td></tr>
-<tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#FAEEDA,#FAC775); border-radius:14px; padding:18px; border-left:5px solid #854F0B;">
-<h4>🎫 Ticket Analysis Dashboard</h4>
-<sub>Power BI dashboard for support ticket analytics & performance reporting</sub><br/><br/>
-<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard">🔗 View repo</a>
-</td>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#FBEAF0,#F4C0D1); border-radius:14px; padding:18px; border-left:5px solid #993556;">
-<h4>👨‍💼 Employee Management Dashboard</h4>
-<sub>Power BI dashboard for workforce analytics & department KPI reporting</sub><br/><br/>
-<code>Power BI</code> <code>DAX</code> <code>Power Query</code><br/><br/>
-<a href="https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard">🔗 View repo</a>
 </td>
 </tr>
 <tr><td colspan="2" height="14" style="border:none;"></td></tr>
