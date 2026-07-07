@@ -1,4 +1,4 @@
-<div align="center">
+d:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; border-left:5px solid #3B6D11;"><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Hi%2C%20I'm%20Sandhiya%20Shree%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20Machine%20Learning%20Developer%20•%20Python%20Developer&descAlignY=58&descSize=17"/>
 
@@ -26,6 +26,8 @@
 - 💼 Open to **Data Analyst / ML Developer / Python Developer** internships
 
 <br/>
+
+
 
 ## 🛠 Tech Stack
 
@@ -71,7 +73,7 @@
 </tr>
 <tr><td colspan="2" height="14" style="border:none;"></td></tr>
 <tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#EAF3DE,#C0DD97); border-radius:14px; padding:18px; border-left:5px solid #3B6D11;">
+<td width="50%" valign="top" style="backgroun
 <h4>📈 ML Dashboard</h4>
 <sub>Machine learning dashboard with sales forecasting & prediction models</sub><br/><br/>
 <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
@@ -115,6 +117,8 @@
 </td>
 </tr>
 </table>
+
+
 
 <br/>
 
