@@ -96,8 +96,8 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
-| 🎫 **Ticket Analysis Dashboard** | Interactive Power BI dashboard for support ticket analytics & KPI reporting. | `Power BI`,`DAX`,`Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
-| 👨‍💼 **Employee Management Dashboard** |  Workforce analytics dashboard with HR KPIs and department insights. | `Power BI`,`DAX`,`Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
+| 🎫 **Ticket Analysis Dashboard** | Interactive Power BI dashboard for support ticket analytics & KPI reporting. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
+| 👨‍💼 **Employee Management Dashboard** |  Workforce analytics dashboard with HR KPIs and department insights. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
 
 ---
 
@@ -106,10 +106,10 @@
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
 | 🤖 **Sandhiya AI** | AI assistant for PDFs, DOCX & CSV using Gemini API. | `Python`  `Streamlit`  `Gemini API` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI) |
-| 🌍 **Universal AI Dashboard** | Analyze any CSV dataset with interactive visualizations. | `Python`  `Streamlit`  `Plotly` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Universal-AI-Dashboard) |
-| 📈 **ML Dashboard** | Machine learning prediction dashboard with interactive visualizations. | `Python` • `Scikit-learn` • `Streamlit` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/ML-Dashboard) |
-| 📉 **Customer Churn Analysis** | Customer churn prediction using EDA & ML techniques. | `Python` • `Pandas` • `Seaborn` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Customer-Churn-Analysis) |
-| 💹 **Sales Data Analysis** | Sales insights using Python and Jupyter Notebook. | `Python` • `Pandas` • `Matplotlib` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
+| 🌍 **Universal AI Dashboard** | Analyze any CSV dataset with interactive visualizations. | `Python` `Streamlit` `Plotly` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Universal-AI-Dashboard) |
+| 📈 **ML Dashboard** | Machine learning prediction dashboard with interactive visualizations. | `Python` `Scikit-learn`  `Streamlit` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/ML-Dashboard) |
+| 📉 **Customer Churn Analysis** | Customer churn prediction using EDA & ML techniques. | `Python`  `Pandas`  `Seaborn` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Customer-Churn-Analysis) |
+| 💹 **Sales Data Analysis** | Sales insights using Python and Jupyter Notebook. | `Python`  `Pandas`  `Matplotlib` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
 
 ---
 
