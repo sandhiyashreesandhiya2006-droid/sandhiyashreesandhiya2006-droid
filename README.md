@@ -18,24 +18,33 @@
 
 ## 🚀 About Me
 
-🎯 Aspiring Data Analyst & Machine Learning Developer
-📊 Building interactive dashboards using Power BI & Streamlit
-🤖 Developing AI-powered applications using Python & Gemini API
-📈 Passionate about Data Analytics, Machine Learning and Business Intelligence
-🌱 Currently learning Advanced Machine Learning & Cloud Technologies
+- 🎯 Aspiring **Data Analyst** & **Machine Learning Developer**
+- 📊 Building interactive dashboards using **Power BI** & **Streamlit**
+- 🤖 Developing AI-powered applications using **Python** & **Gemini API**
+- 📈 Passionate about Data Analytics, Machine Learning, and Business Intelligence
+- 🌱 Currently learning Advanced Machine Learning & Cloud Technologies
+- 💼 Open to **Data Analyst / ML Developer / Python Developer** internships
 
 <br/>
 
 ## 🛠 Tech Stack
 
+<p align="center"><sub><b>Languages & Tools</b></sub></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css"/>
-<br><br>
+</p>
+
+<p align="center"><sub><b>Data Analysis & Machine Learning</b></sub></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<p align="center"><sub><b>BI & AI Applications</b></sub></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -142,8 +151,16 @@
 
 ## 📫 Let's Connect
 
-⭐ If you like my projects, don't forget to star them!
-💼 Open to Data Analyst | Machine Learning | Python Developer Internships
+<p align="center">
+<a href="https://www.linkedin.com/in/sandhiya-shree-s/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sandhiyashreesaravanakumar@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sandhiya-data-portfolio.my.canva.site/"><img src="https://img.shields.io/badge/View%20Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+⭐ If you like my projects, don't forget to star them!<br/>
+💼 Open to Data Analyst | Machine Learning | Python Developer internships<br/>
 Thanks for visiting my profile ❤️
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
