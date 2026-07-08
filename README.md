@@ -122,5 +122,13 @@
   <img height="170" src="https://github-readme-stats-alpha-seven-65.vercel.app/api/top-langs/?username=sandhiyashreesandhiya2006-droid&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhiyashreesandhiya2006-droid&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
