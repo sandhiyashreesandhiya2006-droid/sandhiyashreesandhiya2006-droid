@@ -126,10 +126,6 @@
   <img src="https://streak-stats.demolab.com?user=sandhiyashreesandhiya2006-droid&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhiyashreesandhiya2006-droid&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
@@ -154,4 +150,12 @@
   <a href="https://github.com/sandhiyashreesandhiya2006-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
