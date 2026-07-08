@@ -96,8 +96,8 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
-| 🎫 **Ticket Analysis Dashboard** | Interactive Power BI dashboard for support ticket analytics & KPI reporting. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
-| 👨‍💼 **Employee Management Dashboard** |  Workforce analytics dashboard with HR KPIs and department insights. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
+| 🎫 **Ticket Analysis Dashboard (Excel Automation)** | Excel automation dashboard for ticket tracking, SLA monitoring, and support analytics. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
+| 👨‍💼 **Employee Management Dashboard (SQL Automation)** |  SQL-based automated employee management and HR reporting dashboard. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
 
 ---
 
@@ -158,4 +158,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+</p> 
