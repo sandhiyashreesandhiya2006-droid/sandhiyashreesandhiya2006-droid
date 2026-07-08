@@ -156,10 +156,6 @@
 
 # 🐍 Contribution Snake
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sandhiyashreesandhiya2006-droid/sandhiyashreesandhiya2006-droid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
