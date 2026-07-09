@@ -105,10 +105,10 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
-| 🤖 **Sandhiya AI** | AI assistant for PDFs, DOCX & CSV using Gemini API. | `Python`  `Streamlit`  `Gemini API` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI) |
-| 🌍 **Universal AI Dashboard** | Analyze any CSV dataset with interactive visualizations. | `Python` `Streamlit` `Plotly` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Universal-AI-Dashboard) |
+| 🤖 **Sandhiya AI** | AI assistant for PDFs, DOCX & CSV using Gemini API. | `Python`  `Streamlit`  `Gemini API` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sandhiya-AI.) |
+| 🌍 **Universal AI Dashboard** | Analyze any CSV dataset with interactive visualizations. | `Python` `Streamlit` `Plotly` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/universal-AI-smart-dashboard) |
 | 📈 **ML Dashboard** | Machine learning prediction dashboard with interactive visualizations. | `Python` `Scikit-learn`  `Streamlit` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/ML-Dashboard) |
-| 📉 **Customer Churn Analysis** | Customer churn prediction using EDA & ML techniques. | `Python`  `Pandas`  `Seaborn` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Customer-Churn-Analysis) |
+| 📉 **Customer Churn Analysis** | Customer churn prediction using EDA & ML techniques. | `Python`  `Pandas`  `Seaborn` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/churn_analysis) |
 | 💹 **Sales Data Analysis** | Sales insights using Python and Jupyter Notebook. | `Python`  `Pandas`  `Matplotlib` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Sales-data-analysis) |
 
 ---
