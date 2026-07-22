@@ -96,6 +96,7 @@
 
 | Project | Description | Tools | Repository |
 |---------|-------------|-------|------------|
+| 🛒 **Retail Sales Analysis** | \ End-to-end retail sales analysis project with data cleaning, SQL analysis, Power BI dashboards, sales forecasting, profit prediction, and profit/loss classification using Machine Learning. |  `Python` `SQL` `Power BI` `Scikit-learn` `Pandas` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Retail-Sales-Analysis) |
 | 🎫 **Ticket Analysis Dashboard (Excel Automation)** | Excel automation dashboard for ticket tracking, SLA monitoring, and support analytics. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Ticket-Analysis-Dashboard) |
 | 👨‍💼 **Employee Management Dashboard (SQL Automation)** |  SQL-based automated employee management and HR reporting dashboard. | `Power BI` `DAX` `Power Query` | 🔗 [View Repo](https://github.com/sandhiyashreesandhiya2006-droid/Employee-Management-Dashboard) |
 
