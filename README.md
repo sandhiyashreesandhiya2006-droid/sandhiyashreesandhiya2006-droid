@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://sandhiya-data-portfolio.my.canva.site/">
+<a href="https://sandhiya-portfolio-five.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
